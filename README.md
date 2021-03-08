@@ -8,7 +8,7 @@ Hey! My name is David Corral Plaza, I'm from Cádiz (Spain) and I'm 26 years old
 | ------------- |:-------------:| :-----:|
 | 2012 - 2016     | Degree in Computer Science | University of Cadiz |
 | 2016 - 2017     | MSc degree in Software Engineering and Technology    |   University of Seville |
-| 2017 - 2020 | PhD in Computer Science      |    University of Cadiz |
+| 2017 - 2021 | PhD in Computer Science      |    University of Cadiz |
 
 ## Proffesional Experience 💻
 
