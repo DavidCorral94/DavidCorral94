@@ -25,6 +25,7 @@ I recently joined @47deg as a Software Engineer after finishing my Ph.D. in Comp
 
 ## Social Networks 👀
 
+- [davidcorral.dev](https://davidcorral.dev/)
 - [LinkedIn](https://www.linkedin.com/in/davidcorralp/)
 - [GitHub](https://github.com/DavidCorral94)
 - [Stack Overflow](https://stackoverflow.com/users/5582307/david-corral)
