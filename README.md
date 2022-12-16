@@ -1,6 +1,6 @@
 # Hello 😁
 
-Hey! My name is David Corral Plaza, I'm from Cádiz (Spain) and I'm 27 years old. I love to code not just because of my job, but also for fun and personal/side projects. 
+Hey! My name is David Corral Plaza, I'm from Cádiz (Spain). I love to code not just because of my job, but also for fun and personal/side projects. 
 
 ## Educational Background 👨‍🎓
 
@@ -12,7 +12,7 @@ Hey! My name is David Corral Plaza, I'm from Cádiz (Spain) and I'm 27 years old
 
 
 
-## Proffesional Experience 💻
+## Professional Experience 💻
 
 |     Year      |       Job Title     | Company  |
 | ------------- |:-------------:| :-----:|
@@ -21,7 +21,7 @@ Hey! My name is David Corral Plaza, I'm from Cádiz (Spain) and I'm 27 years old
 | 2017 - 2021 | Predoctoral Researcher      |    University of Cadiz |
 | 2015 - 2016     | Interim in Full Stack and Android Development | University of Cadiz |
 
-I recently joined @47deg as a Software Engineer after finishing my Ph.D. in Computer Engineering at the University of Cadiz. In these past years, I have worked at the University of Cádiz as a postdoctoral and predoctoral researcher. I have also worked as a freelancer in the development of Web and Android applications. In addition, I have taught Front-End and Back-End coding to students of the Bachelor's degree in Computer Engineering at the University of Cadiz, and I have trained company employees in specific web technologies.
+I joined @47deg as a Software Engineer after finishing my Ph.D. in Computer Engineering at the University of Cadiz. I have worked at the University of Cádiz as a postdoctoral and predoctoral researcher. I have also worked as a freelancer in the development of Web and Android applications. In addition, I have taught Front-End and Back-End coding to students of the Bachelor's degree in Computer Engineering at the University of Cadiz, and I have trained company employees in specific web technologies.
 
 ## Social Networks 👀
 
