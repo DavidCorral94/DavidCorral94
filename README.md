@@ -22,7 +22,7 @@ Hey! My name is David Corral Plaza, I'm from Cádiz (Spain). I love to code not 
 | 2015 - 2016     | Interim in Full Stack and Android Development | University of Cadiz |
 
 
-I'm thrilled to be a part of @47deg as a Software Engineer, bringing with me a wealth of knowledge gained through my Ph.D. in Computer Engineering from the University of Cadiz. My journey so far has been an exciting mix of research, teaching, and industry training.
+I'm thrilled to be a part of [@47deg](https://github.com/47deg) as a Software Engineer, bringing with me a wealth of knowledge gained through my Ph.D. in Computer Engineering from the University of Cadiz. My journey so far has been an exciting mix of research, teaching, and industry training.
 
 During my time at the University of Cadiz, I had the opportunity to delve into cutting-edge research as both a postdoctoral and predoctoral researcher. Alongside this, I enjoyed teaching Front-End and Back-End coding to bright and enthusiastic students pursuing their Bachelor's degree in Computer Engineering. Witnessing their growth and helping them navigate the world of coding was truly fulfilling.
 
